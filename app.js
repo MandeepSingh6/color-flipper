@@ -8,7 +8,7 @@ result.innerHTML = "#f1f5f8";
 result.style.color = "#f1f5f8";
 document.querySelector("body main").style.backgroundColor = "#f1f5f8";
 hex.addEventListener("click", function () {
-    location.href = "https://mandeepsingh6.github.io/color-flipper/index.html"
+    location.href = "https://color-flipper-mandeep.netlify.app"
 });
 
 collection.style.padding = "1rem"
